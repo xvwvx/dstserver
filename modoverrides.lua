@@ -1,5 +1,15 @@
 return {
   ["workshop-1084023218"]={ configuration_options={ Language=true }, enabled=true },
+  ["workshop-1108032281"]={
+    configuration_options={
+      ExtraEquipSlot="Disabled",
+      wharang_dodge_key=114,
+      wharang_stat="stat_soul",
+      wharang_stat_key=107,
+      wharang_transform_key=118 
+    },
+    enabled=true 
+  },
   ["workshop-1185229307"]={ configuration_options={  }, enabled=true },
   ["workshop-1216718131"]={ configuration_options={ clean=true, lang=true, stack=true }, enabled=true },
   ["workshop-1275167632"]={
@@ -38,6 +48,54 @@ return {
     },
     enabled=true 
   },
+  ["workshop-439115156"]={
+    configuration_options={
+      avisual_musha="Bmm",
+      avisual_pirate="BL",
+      avisual_pirate_armor="pirate",
+      avisual_princess="WSP",
+      bodyguardwilson=0,
+      craftgems="color",
+      deathPenalty="on",
+      dietmusha="normal",
+      difficultdamage="normal",
+      difficultdamage_range="normal",
+      difficulthealth="normal",
+      difficultmusic="dmusic_normal",
+      difficultover="monster1x",
+      difficultrecipe="normal",
+      difficultsanity="normal",
+      difficultsleep="dsleep_normal",
+      difficulttired="dtired_normal",
+      favoritemusha="normal",
+      frostblade3rd=3,
+      incontainer=0,
+      key=108,
+      key10=110,
+      key11=103,
+      key12=116,
+      key13=282,
+      key14=283,
+      key15=111,
+      key2=114,
+      key3=99,
+      key4=120,
+      key5=107,
+      key6=122,
+      key7=112,
+      key8=118,
+      key9=98,
+      loudlightning="off",
+      modlanguage="auto",
+      musha_incontainer=1,
+      on_butterfly_shield=1,
+      princess_taste="princess",
+      shareitems=0,
+      smartmusha="normal",
+      stop_spawning=1 
+    },
+    enabled=true 
+  },
   ["workshop-447092740"]={ configuration_options={  }, enabled=true },
   ["workshop-458587300"]={ configuration_options={ Ownership=false, Travel_Cost=32 }, enabled=true },
   ["workshop-623749604"]={
@@ -53,6 +111,10 @@ return {
   },
   ["workshop-631648169"]={
     configuration_options={ HuiXueSuDu=1, M_CeShi=false, M_GongSu=false, M_XueLiang=false, QingChuYanShi=1 },
+    enabled=true 
+  },
+  ["workshop-656256171"]={
+    configuration_options={ dont_give_dubloons=2, give_dubloons=1, position=1, rec_dubloon=3, rec_gold=3 },
     enabled=true 
   },
   ["workshop-666155465"]={
@@ -77,6 +139,7 @@ return {
     },
     enabled=true 
   },
+  ["workshop-797304209"]={ configuration_options={  }, enabled=true },
   ["workshop-812713308"]={ configuration_options={ fireflies_fear=222, language=0 }, enabled=true },
   ["workshop-818038080"]={
     configuration_options={
@@ -87,6 +150,7 @@ return {
     },
     enabled=true 
   },
+  ["workshop-829829879"]={ configuration_options={ Language=true, Sound=true }, enabled=true },
   ["workshop-875994715"]={ configuration_options={ charcoal=true, light=1 }, enabled=true },
   ["workshop-921583679"]={ configuration_options={  }, enabled=true } 
 }
