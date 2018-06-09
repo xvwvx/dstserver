@@ -10,8 +10,11 @@ return {
     },
     enabled=true 
   },
+  ["workshop-1166220990"]={ configuration_options={ attract=2, language=2 }, enabled=true },
+  ["workshop-1181077385"]={ configuration_options={  }, enabled=true },
   ["workshop-1185229307"]={ configuration_options={  }, enabled=true },
   ["workshop-1216718131"]={ configuration_options={ clean=true, lang=true, stack=true }, enabled=true },
+  ["workshop-1217385169"]={ configuration_options={  }, enabled=true },
   ["workshop-1275167632"]={
     configuration_options={
       collect_ability="on",
