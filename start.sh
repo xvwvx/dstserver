@@ -81,7 +81,7 @@ encode_user_path = true
 token=${token:="pds-g^KU_CZ2CklcP^Ucg+7D+7o4vXQYgV8HhetJA33hBXEttgVUJvtGfZ8sA="}
 echo $token > "$dontstarve_dir/$cluster_name/cluster_token.txt"
 
-remote_url=${remote_url:="http://7xio1d.com1.z0.glb.clouddn.com"}
+remote_url=${remote_url:="https://raw.githubusercontent.com/xvwvx/dstserver/master"}
 function download_and_check()
 {
     tmp_path="$dontstarve_dir/$cluster_name/$2"
@@ -90,9 +90,9 @@ function download_and_check()
 }
 
 check_for_file "steamcmd.sh"
-# download_and_check "$remote_url/adminlist.txt" "adminlist.txt"
-# download_and_check "$remote_url/modoverrides.lua" "Master/modoverrides.lua"
-# download_and_check "$remote_url/modoverrides.lua" "Caves/modoverrides.lua"
+download_and_check "$remote_url/adminlist.txt" "adminlist.txt"
+download_and_check "$remote_url/modoverrides.lua" "Master/modoverrides.lua"
+download_and_check "$remote_url/modoverrides.lua" "Caves/modoverrides.lua"
 check_for_file "$dontstarve_dir/$cluster_name/cluster.ini"
 check_for_file "$dontstarve_dir/$cluster_name/Master/server.ini"
 check_for_file "$dontstarve_dir/$cluster_name/Caves/server.ini"
