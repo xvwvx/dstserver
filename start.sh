@@ -83,7 +83,7 @@ id = 1942550586
 encode_user_path = true
 
 #[STEAM]
-#master_server_port = 27017
+#master_server_port = 10120
 #authentication_port = 8767" > "$dontstarve_dir/$cluster_name/Caves/server.ini"
 
 token=${token:="pds-g^KU_CZ2CklcP^Ucg+7D+7o4vXQYgV8HhetJA33hBXEttgVUJvtGfZ8sA="}
@@ -93,7 +93,7 @@ remote_url=${remote_url:="https://raw.githubusercontent.com/xvwvx/dstserver/mast
 function download_and_check()
 {
     tmp_path="$dontstarve_dir/$cluster_name/$2"
-    curl -H 'Cache-Control: no-cache' -L -O $tmp_path $1
+    curl -H 'Cache-Control: no-cache' -L -o $tmp_path $1
     check_for_file $tmp_path
 }
 
