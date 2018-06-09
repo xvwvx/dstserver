@@ -1,5 +1,13 @@
 #!/bin/bash
 
+# 第一次首先执行
+# curl -L -O  https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz && mkdir ~/steamcmd/ && tar -xzf steamcmd_linux.tar.gz -C ~/steamcmd/
+
+# 下边的改成自己的值
+# token=
+# remote_url=
+# collection= 
+
 work_dir=$HOME
 steamcmd_dir="$work_dir/steamcmd"
 install_dir="$work_dir/dst_server"
@@ -85,7 +93,7 @@ remote_url=${remote_url:="https://raw.githubusercontent.com/xvwvx/dstserver/mast
 function download_and_check()
 {
     tmp_path="$dontstarve_dir/$cluster_name/$2"
-    curl -H 'Cache-Control: no-cache' -L -o $tmp_path $1
+    curl -H 'Cache-Control: no-cache' -L -O $tmp_path $1
     check_for_file $tmp_path
 }
 
