@@ -100,7 +100,6 @@ return {
     enabled=true 
   },
   ["workshop-447092740"]={ configuration_options={  }, enabled=true },
-  ["workshop-458587300"]={ configuration_options={ Ownership=false, Travel_Cost=32 }, enabled=true },
   ["workshop-623749604"]={
     configuration_options={
       Craft="Normal",
