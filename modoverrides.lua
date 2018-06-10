@@ -2,7 +2,7 @@ return {
   ["workshop-1084023218"]={ configuration_options={ Language=true }, enabled=true },
   ["workshop-1108032281"]={
     configuration_options={
-      ExtraEquipSlot="disabled",
+      ExtraEquipSlot="Disabled",
       wharang_dodge_key=114,
       wharang_stat="stat_soul",
       wharang_stat_key=107,
@@ -23,7 +23,7 @@ return {
       modlanguage="chinese",
       mood_system="on",
       personal_machine="on",
-      recipe_critterlab="off",
+      recipe_critterlab="on",
       unique_skill="on" 
     },
     enabled=true 
@@ -89,7 +89,7 @@ return {
       key8=118,
       key9=98,
       loudlightning="off",
-      modlanguage="chinese",
+      modlanguage="auto",
       musha_incontainer=1,
       on_butterfly_shield=1,
       princess_taste="princess",
@@ -103,10 +103,10 @@ return {
   ["workshop-514078314"]={
     configuration_options={
       EnableFlooringPlanting=false,
-      EnableGameTurfRecipes=1,
+      EnableGameTurfRecipes=0,
       EnableIndividualization=false,
       EnableNonPlayerSpeed=false,
-      EnableTurfedTurfRecipes=1,
+      EnableTurfedTurfRecipes=0,
       InsulatingTurfs=0,
       InsulationDuration=120,
       RainProtectingTurfs=1,
