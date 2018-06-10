@@ -2,7 +2,7 @@ return {
   ["workshop-1084023218"]={ configuration_options={ Language=true }, enabled=true },
   ["workshop-1108032281"]={
     configuration_options={
-      ExtraEquipSlot="Disabled",
+      ExtraEquipSlot="disabled",
       wharang_dodge_key=114,
       wharang_stat="stat_soul",
       wharang_stat_key=107,
@@ -23,7 +23,7 @@ return {
       modlanguage="chinese",
       mood_system="on",
       personal_machine="on",
-      recipe_critterlab="on",
+      recipe_critterlab="off",
       unique_skill="on" 
     },
     enabled=true 
