@@ -13,7 +13,7 @@ return {
   ["workshop-1166220990"]={ configuration_options={ attract=2, language=2 }, enabled=true },
   ["workshop-1181077385"]={ configuration_options={  }, enabled=true },
   ["workshop-1185229307"]={ configuration_options={  }, enabled=true },
-  ["workshop-1216718131"]={ configuration_options={ clean=true, lang=true, stack=true }, enabled=true },
+  ["workshop-1216718131"]={ configuration_options={ clean=false, lang=true, stack=true }, enabled=true },
   ["workshop-1217385169"]={ configuration_options={  }, enabled=true },
   ["workshop-1275167632"]={
     configuration_options={
@@ -38,6 +38,7 @@ return {
     },
     enabled=true 
   },
+  ["workshop-362175979"]={ configuration_options={ ["Draw over FoW"]="enabled" }, enabled=true },
   ["workshop-375850593"]={ configuration_options={  }, enabled=true },
   ["workshop-378160973"]={
     configuration_options={
@@ -100,6 +101,22 @@ return {
     enabled=true 
   },
   ["workshop-447092740"]={ configuration_options={  }, enabled=true },
+  ["workshop-514078314"]={
+    configuration_options={
+      EnableFlooringPlanting=false,
+      EnableGameTurfRecipes=1,
+      EnableIndividualization=true,
+      EnableNonPlayerSpeed=false,
+      EnableTurfedTurfRecipes=1,
+      InsulatingTurfs=0,
+      InsulationDuration=120,
+      RainProtectingTurfs=1,
+      SanityTurfs=0,
+      SpeedyTurfSpeeds=1.25,
+      SpeedyTurfs=1 
+    },
+    enabled=true 
+  },
   ["workshop-623749604"]={
     configuration_options={
       Craft="Normal",
@@ -115,16 +132,28 @@ return {
     configuration_options={ HuiXueSuDu=1, M_CeShi=false, M_GongSu=false, M_XueLiang=false, QingChuYanShi=1 },
     enabled=true 
   },
-  ["workshop-656256171"]={
-    configuration_options={ dont_give_dubloons=2, give_dubloons=1, position=1, rec_dubloon=3, rec_gold=3 },
-    enabled=true 
-  },
   ["workshop-666155465"]={
     configuration_options={ food_estimation=-1, food_order=0, food_style=0, lang="chs", show_food_units=-1 },
     enabled=true 
   },
-  ["workshop-797304209"]={ configuration_options={  }, enabled=true },
-  ["workshop-812713308"]={ configuration_options={ fireflies_fear=222, language=0 }, enabled=true },
+  ["workshop-785295023"]={
+    configuration_options={
+      bossres=true,
+      companion=true,
+      dist=2.5,
+      language="CHS",
+      minimapicon=false,
+      ownership=0,
+      rebounddmg=0,
+      recipe="normal",
+      recipe_door=true,
+      recipe_fence=true,
+      recipe_tool=false,
+      recipe_vanilla=true,
+      recipe_wall=true 
+    },
+    enabled=true 
+  },
   ["workshop-818038080"]={
     configuration_options={
       changefestivizerrecipe=0,
