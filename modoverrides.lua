@@ -89,7 +89,7 @@ return {
       key8=118,
       key9=98,
       loudlightning="off",
-      modlanguage="auto",
+      modlanguage="chinese",
       musha_incontainer=1,
       on_butterfly_shield=1,
       princess_taste="princess",
@@ -103,10 +103,10 @@ return {
   ["workshop-514078314"]={
     configuration_options={
       EnableFlooringPlanting=false,
-      EnableGameTurfRecipes=0,
+      EnableGameTurfRecipes=1,
       EnableIndividualization=false,
       EnableNonPlayerSpeed=false,
-      EnableTurfedTurfRecipes=0,
+      EnableTurfedTurfRecipes=1,
       InsulatingTurfs=0,
       InsulationDuration=120,
       RainProtectingTurfs=1,
