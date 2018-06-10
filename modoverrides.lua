@@ -101,22 +101,6 @@ return {
     enabled=true 
   },
   ["workshop-447092740"]={ configuration_options={  }, enabled=true },
-  ["workshop-514078314"]={
-    configuration_options={
-      EnableFlooringPlanting=false,
-      EnableGameTurfRecipes=1,
-      EnableIndividualization=true,
-      EnableNonPlayerSpeed=false,
-      EnableTurfedTurfRecipes=1,
-      InsulatingTurfs=0,
-      InsulationDuration=120,
-      RainProtectingTurfs=1,
-      SanityTurfs=0,
-      SpeedyTurfSpeeds=1.25,
-      SpeedyTurfs=1 
-    },
-    enabled=true 
-  },
   ["workshop-623749604"]={
     configuration_options={
       Craft="Normal",
