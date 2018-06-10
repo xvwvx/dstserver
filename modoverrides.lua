@@ -2,7 +2,7 @@ return {
   ["workshop-1084023218"]={ configuration_options={ Language=true }, enabled=true },
   ["workshop-1108032281"]={
     configuration_options={
-      ExtraEquipSlot="Disabled",
+      ExtraEquipSlot="disabled",
       wharang_dodge_key=114,
       wharang_stat="stat_soul",
       wharang_stat_key=107,
@@ -23,7 +23,7 @@ return {
       modlanguage="chinese",
       mood_system="on",
       personal_machine="on",
-      recipe_critterlab="on",
+      recipe_critterlab="off",
       unique_skill="on" 
     },
     enabled=true 
@@ -89,7 +89,7 @@ return {
       key8=118,
       key9=98,
       loudlightning="off",
-      modlanguage="auto",
+      modlanguage="chinese",
       musha_incontainer=1,
       on_butterfly_shield=1,
       princess_taste="princess",
@@ -100,22 +100,6 @@ return {
     enabled=true 
   },
   ["workshop-447092740"]={ configuration_options={  }, enabled=true },
-  ["workshop-514078314"]={
-    configuration_options={
-      EnableFlooringPlanting=false,
-      EnableGameTurfRecipes=0,
-      EnableIndividualization=false,
-      EnableNonPlayerSpeed=false,
-      EnableTurfedTurfRecipes=0,
-      InsulatingTurfs=0,
-      InsulationDuration=120,
-      RainProtectingTurfs=1,
-      SanityTurfs=0,
-      SpeedyTurfSpeeds=1.25,
-      SpeedyTurfs=0 
-    },
-    enabled=true 
-  },
   ["workshop-623749604"]={
     configuration_options={
       Craft="Normal",
@@ -137,24 +121,6 @@ return {
   },
   ["workshop-666155465"]={
     configuration_options={ food_estimation=-1, food_order=0, food_style=0, lang="chs", show_food_units=-1 },
-    enabled=true 
-  },
-  ["workshop-785295023"]={
-    configuration_options={
-      bossres=true,
-      companion=false,
-      dist=2.5,
-      language="CHS",
-      minimapicon=false,
-      ownership=0,
-      rebounddmg=0,
-      recipe="normal",
-      recipe_door=false,
-      recipe_fence=false,
-      recipe_tool=false,
-      recipe_vanilla=false,
-      recipe_wall=false 
-    },
     enabled=true 
   },
   ["workshop-797304209"]={ configuration_options={  }, enabled=true },
