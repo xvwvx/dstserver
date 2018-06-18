@@ -1,33 +1,10 @@
 return {
   ["workshop-1084023218"]={ configuration_options={ Language=true }, enabled=true },
-  ["workshop-1108032281"]={
-    configuration_options={
-      ExtraEquipSlot="disabled",
-      wharang_dodge_key=114,
-      wharang_stat="stat_soul",
-      wharang_stat_key=107,
-      wharang_transform_key=118 
-    },
-    enabled=true 
-  },
   ["workshop-1166220990"]={ configuration_options={ attract=2, language=2 }, enabled=true },
   ["workshop-1181077385"]={ configuration_options={  }, enabled=true },
   ["workshop-1185229307"]={ configuration_options={  }, enabled=true },
   ["workshop-1216718131"]={ configuration_options={ clean=false, lang=true, stack=true }, enabled=true },
   ["workshop-1217385169"]={ configuration_options={  }, enabled=true },
-  ["workshop-1275167632"]={
-    configuration_options={
-      collect_ability="on",
-      container_size="9",
-      level_system="on",
-      modlanguage="chinese",
-      mood_system="on",
-      personal_machine="on",
-      recipe_critterlab="off",
-      unique_skill="on" 
-    },
-    enabled=true 
-  },
   ["workshop-1301033176"]={ configuration_options={ LANG="simplified" }, enabled=true },
   ["workshop-1302830827"]={
     configuration_options={
@@ -101,6 +78,22 @@ return {
     enabled=true 
   },
   ["workshop-447092740"]={ configuration_options={  }, enabled=true },
+  ["workshop-514078314"]={
+    configuration_options={
+      EnableFlooringPlanting=false,
+      EnableGameTurfRecipes=1,
+      EnableIndividualization=true,
+      EnableNonPlayerSpeed=false,
+      EnableTurfedTurfRecipes=1,
+      InsulatingTurfs=0,
+      InsulationDuration=120,
+      RainProtectingTurfs=1,
+      SanityTurfs=0,
+      SpeedyTurfSpeeds=1.25,
+      SpeedyTurfs=1 
+    },
+    enabled=true 
+  },
   ["workshop-623749604"]={
     configuration_options={
       Craft="Normal",
@@ -114,6 +107,10 @@ return {
   },
   ["workshop-631648169"]={
     configuration_options={ HuiXueSuDu=1, M_CeShi=false, M_GongSu=false, M_XueLiang=false, QingChuYanShi=1 },
+    enabled=true 
+  },
+  ["workshop-656256171"]={
+    configuration_options={ dont_give_dubloons=2, give_dubloons=0.5, position=3, rec_dubloon=3, rec_gold=3 },
     enabled=true 
   },
   ["workshop-666155465"]={
