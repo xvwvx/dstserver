@@ -5,6 +5,19 @@ return {
   ["workshop-1185229307"]={ configuration_options={  }, enabled=true },
   ["workshop-1216718131"]={ configuration_options={ clean=false, lang=true, stack=true }, enabled=true },
   ["workshop-1217385169"]={ configuration_options={  }, enabled=true },
+  ["workshop-1275167632"]={
+    configuration_options={
+      collect_ability="on",
+      container_size="9",
+      level_system="on",
+      modlanguage="chinese",
+      mood_system="on",
+      personal_machine="on",
+      recipe_critterlab="off",
+      unique_skill="on" 
+    },
+    enabled=true 
+  },
   ["workshop-1301033176"]={ configuration_options={ LANG="simplified" }, enabled=true },
   ["workshop-1302830827"]={
     configuration_options={
@@ -109,8 +122,12 @@ return {
     configuration_options={ HuiXueSuDu=1, M_CeShi=false, M_GongSu=false, M_XueLiang=false, QingChuYanShi=1 },
     enabled=true 
   },
+  ["workshop-646227245"]={
+    configuration_options={ hunger=1, item=0, language=2, level=1, speed=1, type=1 },
+    enabled=true 
+  },
   ["workshop-656256171"]={
-    configuration_options={ dont_give_dubloons=2, give_dubloons=0.5, position=3, rec_dubloon=3, rec_gold=3 },
+    configuration_options={ dont_give_dubloons=2, give_dubloons=0.1, position=1, rec_dubloon=3, rec_gold=3 },
     enabled=true 
   },
   ["workshop-666155465"]={
@@ -135,6 +152,7 @@ return {
     },
     enabled=true 
   },
+  ["workshop-812713308"]={ configuration_options={ fireflies_fear=222, language=0 }, enabled=true },
   ["workshop-818038080"]={
     configuration_options={
       changefestivizerrecipe=0,
