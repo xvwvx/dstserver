@@ -164,5 +164,18 @@ return {
   },
   ["workshop-829829879"]={ configuration_options={ Language=true, Sound=true }, enabled=true },
   ["workshop-875994715"]={ configuration_options={ charcoal=true, light=1 }, enabled=true },
+  ["workshop-899583698"]={
+    configuration_options={
+      Dig=false,
+      GameMode=true,
+      Hammer=false,
+      Language=true,
+      Sound=true,
+      TotooriaSpeech=1,
+      UIHeight=80,
+      UIScale=0.75 
+    },
+    enabled=true 
+  },
   ["workshop-921583679"]={ configuration_options={  }, enabled=true } 
 }
