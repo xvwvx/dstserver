@@ -3,7 +3,7 @@ return {
   ["workshop-1166220990"]={ configuration_options={ attract=2, language=2 }, enabled=true },
   ["workshop-1181077385"]={ configuration_options={  }, enabled=true },
   ["workshop-1185229307"]={ configuration_options={  }, enabled=true },
-  ["workshop-1216718131"]={ configuration_options={ clean=false, lang=true, stack=true }, enabled=true },
+  ["workshop-1216718131"]={ configuration_options={ clean=true, lang=true, stack=true }, enabled=true },
   ["workshop-1217385169"]={ configuration_options={  }, enabled=true },
   ["workshop-1275167632"]={
     configuration_options={
@@ -123,10 +123,6 @@ return {
     configuration_options={ HuiXueSuDu=1, M_CeShi=false, M_GongSu=false, M_XueLiang=false, QingChuYanShi=1 },
     enabled=true 
   },
-  ["workshop-646227245"]={
-    configuration_options={ hunger=1, item=0, language=2, level=1, speed=1, type=1 },
-    enabled=true 
-  },
   ["workshop-656256171"]={
     configuration_options={ dont_give_dubloons=2, give_dubloons=0.1, position=1, rec_dubloon=3, rec_gold=3 },
     enabled=true 
@@ -154,15 +150,6 @@ return {
     enabled=true 
   },
   ["workshop-812713308"]={ configuration_options={ fireflies_fear=222, language=0 }, enabled=true },
-  ["workshop-818038080"]={
-    configuration_options={
-      changefestivizerrecipe=0,
-      craftablespecific=true,
-      enableglobalreskins=true,
-      prototyper_module=1 
-    },
-    enabled=true 
-  },
   ["workshop-829829879"]={ configuration_options={ Language=true, Sound=true }, enabled=true },
   ["workshop-875994715"]={ configuration_options={ charcoal=true, light=1 }, enabled=true },
   ["workshop-899583698"]={
