@@ -28,20 +28,7 @@ return {
     },
     enabled=true 
   },
-  ["workshop-362175979"]={ configuration_options={ ["Draw over FoW"]="enabled" }, enabled=true },
   ["workshop-375850593"]={ configuration_options={  }, enabled=true },
-  ["workshop-378160973"]={
-    configuration_options={
-      ENABLEPINGS=true,
-      FIREOPTIONS=2,
-      OVERRIDEMODE=false,
-      SHAREMINIMAPPROGRESS=true,
-      SHOWFIREICONS=true,
-      SHOWPLAYERICONS=true,
-      SHOWPLAYERSOPTIONS=2 
-    },
-    enabled=true 
-  },
   ["workshop-439115156"]={
     configuration_options={
       avisual_musha="Bmm",
@@ -113,7 +100,7 @@ return {
       Craft="Normal",
       Destroyable="DestroyByAll",
       FoodSpoilage=1,
-      Language="En",
+      Language="TCh",
       Position="Center",
       Slots=80 
     },
@@ -164,6 +151,5 @@ return {
       UIScale=0.75 
     },
     enabled=true 
-  },
-  ["workshop-921583679"]={ configuration_options={  }, enabled=true } 
+  } 
 }
