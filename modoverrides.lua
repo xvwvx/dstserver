@@ -107,6 +107,7 @@ return {
     },
     enabled=true 
   },
+  ["workshop-599498678"]={ configuration_options={  }, enabled=true },
   ["workshop-623749604"]={
     configuration_options={
       Craft="Normal",
