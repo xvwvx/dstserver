@@ -41,7 +41,7 @@ pause_when_empty = true
 
 
 [NETWORK]
-#tick_rate = 30
+tick_rate = 10
 lan_only_cluster = false
 cluster_intention = cooperative
 cluster_description = 
