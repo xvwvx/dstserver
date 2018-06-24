@@ -94,6 +94,16 @@ return {
     },
     enabled=true 
   },
+  ["workshop-543945797"]={
+    configuration_options={
+      amount_of_numbers="default",
+      display_mode="waving",
+      dmg_only="on",
+      number_size="default",
+      show_decimal_points="no" 
+    },
+    enabled=true 
+  },
   ["workshop-599498678"]={ configuration_options={  }, enabled=true },
   ["workshop-623749604"]={
     configuration_options={
@@ -137,6 +147,15 @@ return {
     enabled=true 
   },
   ["workshop-812713308"]={ configuration_options={ fireflies_fear=222, language=0 }, enabled=true },
+  ["workshop-818038080"]={
+    configuration_options={
+      changefestivizerrecipe=0,
+      craftablespecific=true,
+      enableglobalreskins=true,
+      prototyper_module=1 
+    },
+    enabled=true 
+  },
   ["workshop-829829879"]={ configuration_options={ Language=true, Sound=true }, enabled=true },
   ["workshop-875994715"]={ configuration_options={ charcoal=true, light=1 }, enabled=true },
   ["workshop-899583698"]={
@@ -151,5 +170,6 @@ return {
       UIScale=0.75 
     },
     enabled=true 
-  } 
+  },
+  ["workshop-921583679"]={ configuration_options={  }, enabled=true } 
 }
