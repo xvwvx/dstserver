@@ -111,6 +111,17 @@ check_for_file "$dontstarve_dir/$cluster_name/Caves/server.ini"
 game_path="$install_dir"
 cd "$game_path/bin" || fail 
 
+kill_process(){
+    ids=`ps -ef | grep "$1" | grep -v "grep" | awk '{print $2}'` 
+    for id in $ids
+    do
+        kill -2 $id
+    done
+}
+
+# 中断进程
+kill_process "dontstarve_dedicated_server_nullrenderer"
+
 # https://steamcommunity.com/sharedfiles/filedetails/?id=1383995661
 collection=${collection:="1383995661"}
 echo "ServerModCollectionSetup(\"$collection\")" > "$game_path/mods/dedicated_server_mods_setup.lua"
