@@ -1,4 +1,6 @@
 return {
+  ["workshop-1166220990"]={ configuration_options={ attract=2, language=2 }, enabled=true },
+  ["workshop-1181077385"]={ configuration_options={  }, enabled=true },
   ["workshop-1185229307"]={ configuration_options={  }, enabled=true },
   ["workshop-1200745268"]={
     configuration_options={
@@ -17,6 +19,7 @@ return {
     enabled=true 
   },
   ["workshop-1216718131"]={ configuration_options={ clean=true, lang=true, stack=true }, enabled=true },
+  ["workshop-1217385169"]={ configuration_options={  }, enabled=true },
   ["workshop-1273791802"]={ configuration_options={  }, enabled=true },
   ["workshop-1275167632"]={
     configuration_options={
@@ -33,6 +36,54 @@ return {
   },
   ["workshop-1402200186"]={ configuration_options={ set_idioma="strings" }, enabled=true },
   ["workshop-375850593"]={ configuration_options={  }, enabled=true },
+  ["workshop-439115156"]={
+    configuration_options={
+      avisual_musha="Bmm",
+      avisual_pirate="BL",
+      avisual_pirate_armor="pirate",
+      avisual_princess="WSP",
+      bodyguardwilson=0,
+      craftgems="color",
+      deathPenalty="on",
+      dietmusha="normal",
+      difficultdamage="normal",
+      difficultdamage_range="normal",
+      difficulthealth="normal",
+      difficultmusic="dmusic_normal",
+      difficultover="monster1x",
+      difficultrecipe="normal",
+      difficultsanity="normal",
+      difficultsleep="dsleep_normal",
+      difficulttired="dtired_normal",
+      favoritemusha="normal",
+      frostblade3rd=3,
+      incontainer=0,
+      key=108,
+      key10=110,
+      key11=103,
+      key12=116,
+      key13=282,
+      key14=283,
+      key15=111,
+      key2=114,
+      key3=99,
+      key4=120,
+      key5=107,
+      key6=122,
+      key7=112,
+      key8=118,
+      key9=98,
+      loudlightning="off",
+      modlanguage="chinese",
+      musha_incontainer=1,
+      on_butterfly_shield=1,
+      princess_taste="princess",
+      shareitems=0,
+      smartmusha="normal",
+      stop_spawning=1 
+    },
+    enabled=true 
+  },
   ["workshop-447092740"]={ configuration_options={  }, enabled=true },
   ["workshop-543945797"]={
     configuration_options={
@@ -81,5 +132,19 @@ return {
     },
     enabled=true 
   },
-  ["workshop-875994715"]={ configuration_options={ charcoal=true, light=1 }, enabled=true } 
+  ["workshop-829829879"]={ configuration_options={ Language=true, Sound=true }, enabled=true },
+  ["workshop-875994715"]={ configuration_options={ charcoal=true, light=1 }, enabled=true },
+  ["workshop-899583698"]={
+    configuration_options={
+      Dig=false,
+      GameMode=true,
+      Hammer=false,
+      Language=true,
+      Sound=true,
+      TotooriaSpeech=1,
+      UIHeight=80,
+      UIScale=0.75 
+    },
+    enabled=true 
+  } 
 }
