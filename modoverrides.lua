@@ -1,5 +1,4 @@
 return {
-  ["-防卡两招-1216718131"]={ configuration_options={ clean=true, lang=true, stack=true }, enabled=true },
   ["workshop-1185229307"]={ configuration_options={  }, enabled=true },
   ["workshop-1200745268"]={
     configuration_options={
@@ -17,6 +16,7 @@ return {
     },
     enabled=true 
   },
+  ["workshop-1216718131"]={ configuration_options={ clean=true, lang=true, stack=true }, enabled=true },
   ["workshop-1273791802"]={ configuration_options={  }, enabled=true },
   ["workshop-1275167632"]={
     configuration_options={
