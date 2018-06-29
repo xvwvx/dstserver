@@ -1,4 +1,15 @@
 return {
+  ["workshop-1108032281"]={
+    configuration_options={
+      ExtraEquipSlot="enabled",
+      wharang_dodge_key=114,
+      wharang_language="lan_ch",
+      wharang_stat="stat_soul",
+      wharang_stat_key=107,
+      wharang_transform_key=118 
+    },
+    enabled=true 
+  },
   ["workshop-1166220990"]={ configuration_options={ attract=2, language=2 }, enabled=true },
   ["workshop-1181077385"]={ configuration_options={  }, enabled=true },
   ["workshop-1185229307"]={ configuration_options={  }, enabled=true },
