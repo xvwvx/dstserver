@@ -1,5 +1,4 @@
 return {
-  ["-RPG装备鉴定系统-806048964"]={ configuration_options={ Language="en" }, enabled=true },
   ["-防卡两招-1216718131"]={ configuration_options={ clean=true, lang=true, stack=true }, enabled=true },
   ["workshop-1185229307"]={ configuration_options={  }, enabled=true },
   ["workshop-1200745268"]={
