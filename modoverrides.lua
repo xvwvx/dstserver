@@ -125,7 +125,7 @@ return {
   },
   ["workshop-634670136"]={
     configuration_options={
-      admin_option=true,
+      admin_option=false,
       cant_destroyby_monster=false,
       firesuppressor_dig=30,
       give_start_item=false,
