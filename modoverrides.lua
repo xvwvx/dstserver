@@ -3,7 +3,7 @@ return {
     configuration_options={
       ExtraEquipSlot="enabled",
       wharang_dodge_key=114,
-      wharang_language="lan_ch",
+      wharang_language="lan_en",
       wharang_stat="stat_soul",
       wharang_stat_key=107,
       wharang_transform_key=118 
@@ -24,11 +24,12 @@ return {
       modlanguage="chinese",
       mood_system="on",
       personal_machine="on",
-      recipe_critterlab="off",
+      recipe_critterlab="on",
       unique_skill="on" 
     },
     enabled=true 
   },
+  ["workshop-1301033176"]={ configuration_options={ LANG="simplified" }, enabled=true },
   ["workshop-1402200186"]={ configuration_options={ set_idioma="strings" }, enabled=true },
   ["workshop-374550642"]={ configuration_options={ MAXSTACKSIZE=99 }, enabled=true },
   ["workshop-375850593"]={ configuration_options={  }, enabled=true },
@@ -129,7 +130,13 @@ return {
     enabled=true 
   },
   ["workshop-666155465"]={
-    configuration_options={ food_estimation=-1, food_order=0, food_style=0, lang="chs", show_food_units=-1 },
+    configuration_options={
+      food_estimation=-1,
+      food_order=0,
+      food_style=0,
+      lang="auto",
+      show_food_units=-1 
+    },
     enabled=true 
   },
   ["workshop-818038080"]={
