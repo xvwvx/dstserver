@@ -30,6 +30,7 @@ return {
     enabled=true 
   },
   ["workshop-1402200186"]={ configuration_options={ set_idioma="strings" }, enabled=true },
+  ["workshop-374550642"]={ configuration_options={ MAXSTACKSIZE=99 }, enabled=true },
   ["workshop-375850593"]={ configuration_options={  }, enabled=true },
   ["workshop-378160973"]={
     configuration_options={
@@ -140,19 +141,5 @@ return {
     },
     enabled=true 
   },
-  ["workshop-829829879"]={ configuration_options={ Language=true, Sound=true }, enabled=true },
-  ["workshop-875994715"]={ configuration_options={ charcoal=true, light=1 }, enabled=true },
-  ["workshop-899583698"]={
-    configuration_options={
-      Dig=false,
-      GameMode=true,
-      Hammer=false,
-      Language=true,
-      Sound=true,
-      TotooriaSpeech=1,
-      UIHeight=80,
-      UIScale=0.75 
-    },
-    enabled=true 
-  } 
+  ["workshop-875994715"]={ configuration_options={ charcoal=true, light=1 }, enabled=true } 
 }
