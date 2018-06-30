@@ -13,22 +13,6 @@ return {
   ["workshop-1166220990"]={ configuration_options={ attract=2, language=2 }, enabled=true },
   ["workshop-1181077385"]={ configuration_options={  }, enabled=true },
   ["workshop-1185229307"]={ configuration_options={  }, enabled=true },
-  ["workshop-1200745268"]={
-    configuration_options={
-      Animal=true,
-      BuildRepair=true,
-      ChopTime=1,
-      CookTime=0,
-      FishTime=0,
-      HSHU=true,
-      MineTime=1,
-      Others=true,
-      Pick=true,
-      QuickDry=true,
-      QuickGrow=0 
-    },
-    enabled=true 
-  },
   ["workshop-1216718131"]={ configuration_options={ clean=true, lang=true, stack=true }, enabled=true },
   ["workshop-1217385169"]={ configuration_options={  }, enabled=true },
   ["workshop-1273791802"]={ configuration_options={  }, enabled=true },
@@ -108,6 +92,7 @@ return {
     enabled=true 
   },
   ["workshop-447092740"]={ configuration_options={  }, enabled=true },
+  ["workshop-501385076"]={ configuration_options={  }, enabled=true },
   ["workshop-543945797"]={
     configuration_options={
       amount_of_numbers="default",
