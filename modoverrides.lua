@@ -110,21 +110,6 @@ return {
     configuration_options={ HuiXueSuDu=1, M_CeShi=false, M_GongSu=false, M_XueLiang=false, QingChuYanShi=1 },
     enabled=true 
   },
-  ["workshop-634670136"]={
-    configuration_options={
-      admin_option=false,
-      cant_destroyby_monster=false,
-      firesuppressor_dig=30,
-      give_start_item=false,
-      is_allow_build_near=false,
-      language="redpig_fun",
-      portal_clear=true,
-      remove_owner_time="never",
-      spread_fire=1,
-      wall_lock=true 
-    },
-    enabled=true 
-  },
   ["workshop-656256171"]={
     configuration_options={ dont_give_dubloons=2, give_dubloons=0, position=1, rec_dubloon=3, rec_gold=3 },
     enabled=true 
