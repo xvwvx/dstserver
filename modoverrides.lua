@@ -124,14 +124,5 @@ return {
     },
     enabled=true 
   },
-  ["workshop-818038080"]={
-    configuration_options={
-      changefestivizerrecipe=0,
-      craftablespecific=true,
-      enableglobalreskins=true,
-      prototyper_module=1 
-    },
-    enabled=true 
-  },
   ["workshop-875994715"]={ configuration_options={ charcoal=true, light=1 }, enabled=true } 
 }
