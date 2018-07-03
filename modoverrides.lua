@@ -30,7 +30,21 @@ return {
     enabled=true 
   },
   ["workshop-1301033176"]={ configuration_options={ LANG="simplified" }, enabled=true },
-  ["workshop-1402200186"]={ configuration_options={ set_idioma="strings" }, enabled=true },
+  ["workshop-1402200186"]={
+    configuration_options={
+      Beach_Biome=true,
+      Jungle_Biome=true,
+      Magma_Biome=true,
+      Meadow_Biome=true,
+      TheGorge_Biome=true,
+      Tidalmarsh_Biome=true,
+      Volcano_Biome=true,
+      Water_Biome=true,
+      colourcube=true,
+      set_idioma="stringsCh" 
+    },
+    enabled=true 
+  },
   ["workshop-374550642"]={ configuration_options={ MAXSTACKSIZE=99 }, enabled=true },
   ["workshop-375850593"]={ configuration_options={  }, enabled=true },
   ["workshop-378160973"]={
@@ -108,10 +122,6 @@ return {
   ["workshop-599498678"]={ configuration_options={  }, enabled=true },
   ["workshop-631648169"]={
     configuration_options={ HuiXueSuDu=1, M_CeShi=false, M_GongSu=false, M_XueLiang=false, QingChuYanShi=1 },
-    enabled=true 
-  },
-  ["workshop-656256171"]={
-    configuration_options={ dont_give_dubloons=2, give_dubloons=0, position=1, rec_dubloon=3, rec_gold=3 },
     enabled=true 
   },
   ["workshop-666155465"]={
