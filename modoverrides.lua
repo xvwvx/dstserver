@@ -13,6 +13,7 @@ return {
   ["workshop-1166220990"]={ configuration_options={ attract=2, language=2 }, enabled=true },
   ["workshop-1181077385"]={ configuration_options={  }, enabled=true },
   ["workshop-1185229307"]={ configuration_options={  }, enabled=true },
+  ["workshop-1189593243"]={ configuration_options={  }, enabled=true },
   ["workshop-1216718131"]={ configuration_options={ clean=true, lang=true, stack=true }, enabled=true },
   ["workshop-1217385169"]={ configuration_options={  }, enabled=true },
   ["workshop-1273791802"]={ configuration_options={  }, enabled=true },
@@ -24,27 +25,12 @@ return {
       modlanguage="chinese",
       mood_system="on",
       personal_machine="on",
-      recipe_critterlab="on",
+      recipe_critterlab="off",
       unique_skill="on" 
     },
     enabled=true 
   },
   ["workshop-1301033176"]={ configuration_options={ LANG="simplified" }, enabled=true },
-  ["workshop-1402200186"]={
-    configuration_options={
-      Beach_Biome=true,
-      Jungle_Biome=true,
-      Magma_Biome=true,
-      Meadow_Biome=true,
-      TheGorge_Biome=true,
-      Tidalmarsh_Biome=true,
-      Volcano_Biome=true,
-      Water_Biome=true,
-      colourcube=true,
-      set_idioma="stringsCh" 
-    },
-    enabled=true 
-  },
   ["workshop-374550642"]={ configuration_options={ MAXSTACKSIZE=99 }, enabled=true },
   ["workshop-375850593"]={ configuration_options={  }, enabled=true },
   ["workshop-378160973"]={
@@ -124,6 +110,21 @@ return {
     configuration_options={ HuiXueSuDu=1, M_CeShi=false, M_GongSu=false, M_XueLiang=false, QingChuYanShi=1 },
     enabled=true 
   },
+  ["workshop-634670136"]={
+    configuration_options={
+      admin_option=false,
+      cant_destroyby_monster=false,
+      firesuppressor_dig=30,
+      give_start_item=false,
+      is_allow_build_near=false,
+      language="redpig_fun",
+      portal_clear=true,
+      remove_owner_time="never",
+      spread_fire=1,
+      wall_lock=true 
+    },
+    enabled=true 
+  },
   ["workshop-666155465"]={
     configuration_options={
       food_estimation=-1,
@@ -131,6 +132,16 @@ return {
       food_style=0,
       lang="auto",
       show_food_units=-1 
+    },
+    enabled=true 
+  },
+  ["workshop-812713308"]={ configuration_options={ fireflies_fear=222, language=0 }, enabled=true },
+  ["workshop-818038080"]={
+    configuration_options={
+      changefestivizerrecipe=0,
+      craftablespecific=true,
+      enableglobalreskins=true,
+      prototyper_module=1 
     },
     enabled=true 
   },
