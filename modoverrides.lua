@@ -13,7 +13,6 @@ return {
   ["workshop-1166220990"]={ configuration_options={ attract=2, language=2 }, enabled=true },
   ["workshop-1181077385"]={ configuration_options={  }, enabled=true },
   ["workshop-1185229307"]={ configuration_options={  }, enabled=true },
-  ["workshop-1189593243"]={ configuration_options={  }, enabled=true },
   ["workshop-1216718131"]={ configuration_options={ clean=true, lang=true, stack=true }, enabled=true },
   ["workshop-1217385169"]={ configuration_options={  }, enabled=true },
   ["workshop-1273791802"]={ configuration_options={  }, enabled=true },
@@ -135,7 +134,25 @@ return {
     },
     enabled=true 
   },
-  ["workshop-812713308"]={ configuration_options={ fireflies_fear=222, language=0 }, enabled=true },
+  ["workshop-785295023"]={
+    configuration_options={
+      bossres=false,
+      companion=true,
+      dist=2,
+      healthmul=1,
+      language="CHS",
+      minimapicon=false,
+      ownership=0,
+      rebounddmg=0,
+      recipe="normal",
+      recipe_door=true,
+      recipe_fence=true,
+      recipe_tool=true,
+      recipe_vanilla=true,
+      recipe_wall=true 
+    },
+    enabled=true 
+  },
   ["workshop-818038080"]={
     configuration_options={
       changefestivizerrecipe=0,
