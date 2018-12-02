@@ -147,14 +147,5 @@ return {
     ["configuration_options"]={ ["fireflies_fear"]=222, ["language"]=0 },
     ["enabled"]=true 
   },
-  ["workshop-818038080"]={
-    ["configuration_options"]={
-      ["changefestivizerrecipe"]=0,
-      ["craftablespecific"]=true,
-      ["enableglobalreskins"]=true,
-      ["prototyper_module"]=1 
-    },
-    ["enabled"]=true 
-  },
   ["workshop-921583679"]={ ["configuration_options"]={  }, ["enabled"]=true } 
 }
