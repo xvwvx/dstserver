@@ -4,6 +4,19 @@ return {
     ["enabled"]=true 
   },
   ["workshop-1273791802"]={ ["configuration_options"]={  }, ["enabled"]=true },
+  ["workshop-1275167632"]={
+    ["configuration_options"]={
+      ["collect_ability"]="on",
+      ["container_size"]="9",
+      ["hotkey_mypet"]="on",
+      ["level_system"]="on",
+      ["modlanguage"]="chinese",
+      ["personal_machine"]="on",
+      ["recipe_critterlab"]="off",
+      ["unique_skill"]="on" 
+    },
+    ["enabled"]=true 
+  },
   ["workshop-1301033176"]={ ["configuration_options"]={ ["LANG"]="auto" }, ["enabled"]=true },
   ["workshop-1302830827"]={
     ["configuration_options"]={
@@ -14,6 +27,7 @@ return {
     },
     ["enabled"]=true 
   },
+  ["workshop-1580779375"]={ ["configuration_options"]={ ["Language"]="cn" }, ["enabled"]=true },
   ["workshop-362175979"]={ ["configuration_options"]={ ["Draw over FoW"]="disabled" }, ["enabled"]=true },
   ["workshop-374550642"]={ ["configuration_options"]={ ["MAXSTACKSIZE"]=99 }, ["enabled"]=true },
   ["workshop-375850593"]={ ["configuration_options"]={  }, ["enabled"]=true },
