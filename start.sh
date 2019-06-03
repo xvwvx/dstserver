@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# c_connect("x.x.x.x", 10119, "123456")
 # 第一次首先执行
 # curl -L -O  https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz && mkdir ~/steamcmd/ && tar -xzf steamcmd_linux.tar.gz -C ~/steamcmd/
 
