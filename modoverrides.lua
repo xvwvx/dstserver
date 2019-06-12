@@ -3,19 +3,6 @@ return {
   ["workshop-1181077385"]={ configuration_options={  }, enabled=true },
   ["workshop-1216718131"]={ configuration_options={ clean=true, lang=true, stack=true }, enabled=true },
   ["workshop-1217385169"]={ configuration_options={  }, enabled=true },
-  ["workshop-1275167632"]={
-    configuration_options={
-      collect_ability="on",
-      container_size="9",
-      hotkey_mypet="on",
-      level_system="on",
-      modlanguage="chinese",
-      personal_machine="on",
-      recipe_critterlab="on",
-      unique_skill="on" 
-    },
-    enabled=true 
-  },
   ["workshop-1301033176"]={ configuration_options={ LANG="simplified" }, enabled=true },
   ["workshop-1302830827"]={
     configuration_options={
