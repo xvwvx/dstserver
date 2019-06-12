@@ -49,6 +49,7 @@ cluster_description =
 cluster_name = 903291576的世界
 offline_cluster = false
 cluster_password = 123456
+cluster_language = zh
 
 
 [MISC]
