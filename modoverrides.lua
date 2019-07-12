@@ -18,7 +18,21 @@ return {
     configuration_options={ Hunger_Cost=1, Ownership=false, Sanity_Cost=1 },
     enabled=true 
   },
+  ["workshop-1796885039"]={
+    configuration_options={
+      Dig=false,
+      GameMode=true,
+      Hammer=false,
+      Language=true,
+      Sound=true,
+      TotooriaSpeech=1,
+      UIHeight=80,
+      UIScale=0.75 
+    },
+    enabled=true 
+  },
   ["workshop-362175979"]={ configuration_options={ ["Draw over FoW"]="disabled" }, enabled=true },
+  ["workshop-374550642"]={ configuration_options={ MAXSTACKSIZE=99 }, enabled=true },
   ["workshop-375850593"]={ configuration_options={  }, enabled=true },
   ["workshop-378160973"]={
     configuration_options={
