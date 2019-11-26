@@ -107,7 +107,6 @@ return {
   },
   ["workshop-447092740"]={ configuration_options={  }, enabled=true },
   ["workshop-501385076"]={ configuration_options={ quick_harvest=true }, enabled=true },
-  ["workshop-516059534"]={ configuration_options={  }, enabled=true },
   ["workshop-623749604"]={
     configuration_options={
       Craft="Normal",
